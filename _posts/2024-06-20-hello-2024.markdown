@@ -1,0 +1,51 @@
+---
+layout:     post
+title:      "Welcome to Menger's Blog"
+subtitle:   " \"blog creation\""
+date:       2024-06-20 17:03:00
+author:     "Menger"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+突然就开通了自己的网站，打算用这个地方记录自己PhD最艰苦奋战的日子。
+
+作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。
+
+在玩了一段时间知乎之后，答题的快感又激起了我开博客的冲动。之前的[个人网站](http://huangxuan.me/portfolio)是作品集形式的（现在集成进来了），并不适合用来写博文，一不做二不休，花一天搞一个吧！
+
+
+<p id = "build"></p>
+---
+
+## 正文
+
+2024年的夏天，总算在phd的中点有所产出。但是自己仍然是懒惰到不太想记录自己的phd过程，导致项目做完了才开始写文章。并且现在手上有多个项目同时要做，不得以开始对自己进行项目管理了，不然总是会有项目推进缓慢的情况。
+
+目前所做的项目有：
+
+
+* AC system Defrosting Model and Control with Python
+* Frost growth model with C++
+* Defrosting water drainage enhancement
+* Anti-frosting surface structure design and testing
+
+
+同时有四个项目在做，为了保证每个项目推进的进度，每周会在这个blog上更新任务计划以及项目进度和难题。
+
+
+
+---
+
+
+## 后记
+
+这个博客非常感激 Hux 和 github，他的模板帮我省去了大量时间，并且作为ME学子要学前端也太难了，github则提供了非常简易的形成个人网站的方式。希望在2026年能够顺利毕业，奔赴我爱的人和向往的生活。
+
+—— Menger 后记 于 06/20/2024 17:13
