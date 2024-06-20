@@ -1,0 +1,67 @@
+---
+layout:     post
+title:      "06/20/2024 Weekly Plan"
+subtitle:   " \"blog creation\""
+date:       2024-06-20 17:03:00
+author:     "Menger"
+header-img: "img/post-weeklyplan-logo.jpg"
+tags:
+    - 科研
+---
+
+> "Let's keep things moving."
+
+
+## 碎碎念
+
+感觉UIUC的这个简洁的"I"很适合背景（吗？）
+
+
+<p id = "build"></p>
+---
+
+## AC SYSTEM DEFROSTING MODEL AND CONTROL
+
+和老板开会之后，之前实验数据分析需要更加全面。
+
+* Analyze heat transfer performance, including energy distribution pie **[2hr]**
+* Perform experiment with shorter "Compressor ON" time see if it reduce energy. (Trial) **[1day]**
+* Defrosting model testing (single tube, no distribution consideration, time dependent) and compare to experiment. **[2days]**
+
+---
+
+## FROST GROWTH MODEL
+
+继续跑Midea要求的模拟情况（extruded fin），并且尝试anti-frosting surface design
+
+* Run simulation case of extruded fin **[4days]**
+    * don't run too many cases at same time, memory of PC (48GB) is not large enough
+* Post-process the anti-frosting fin design by Joon. **[1hour]**
+* Run simulation case of anti-frosting fin design. **[1day]**
+
+---
+
+## DEFROSTING WATER DRAINAGE
+
+Apex shape for water drainage enhancement
+
+* Clean surface with plasma in cleanroom. **[1hr]**
+* Test frost growth on these samples. **[3days]**
+
+---
+
+## PURDUE CONFERENCE
+
+Finish the presentation (sad face)
+
+* Defrosting model presentation. **[2days]**
+* Frosting model presentation. **[2days]**
+
+---
+
+
+## 注
+
+先做slides... 真的是要死了，法环的dlc刚公布，好想玩。
+
+—— Menger 后记 于 06/20/2024 17:42
