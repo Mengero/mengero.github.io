@@ -1,10 +1,10 @@
 # Site settings
 title: Menger Blog
 SEOTitle: Menger | My Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
-keyword: ""
+header-img: img/home-bg-1.jpg
+email: 2233mengerchen@gmail.com
+description: "光阴者，百代之过客也，唯有奋力奔跑方能生，风起时是时代造英雄，英雄存在于时代"
+keyword: "Menger, Jiong Chen, 陈炯"
 url: "http://mengero.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
