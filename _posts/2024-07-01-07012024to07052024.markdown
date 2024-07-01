@@ -1,0 +1,66 @@
+---
+layout:     post
+title:      "07/01/2024 Weekly Plan"
+subtitle:   " \"blog creation\""
+date:       2024-07-01 05:31:00
+author:     "Menger"
+header-img: "img/post-weeklyplan-logo.jpg"
+tags:
+    - 科研
+---
+
+> "Nothing can help us endure dark times better than our faith."
+
+
+## 碎碎念
+
+该死，赶紧振作起来啊，像推图一样想办法把phd的任务都做掉（咬牙切齿）。
+
+
+<p id = "build"></p>
+---
+
+## AC SYSTEM DEFROSTING MODEL AND CONTROL
+
+由于上周主要都在赶Purdue Conference的slides，实在是没有精力推进科研课题的进度，所以继续保持这几项待办事项，必须在这个星期内完成了。
+
+- [ ] apply based on different surface contact angle, the surface water amount holding is different. Simulate under different conditions.
+- [ ] Analyze heat transfer performance, including energy distribution pie **[2hr]**
+- [ ] Perform experiment with shorter "Compressor ON" time see if it reduce energy. (Trial) **[1day]**
+- [ ] Defrosting model testing (single tube, no distribution consideration, time dependent) and compare to experiment. **[2days]**
+
+---
+
+## FROST GROWTH MODEL
+
+目前根据观察extruded fin的运行模拟情况会失败是由于内存不够导致的（还在测试）。此外这周即将完成apex-shape的排水性能测试，并需要完成
+
+- [ ] Do apex-shape sample drainage test.
+- [ ] Run simulation case of extruded fin **[4days]**
+- [ ] Post-process the anti-frosting fin design by Joon. **[1hour]**
+- [ ] Run simulation case of anti-frosting fin design. **[1day]**
+
+---
+
+## DEFROSTING WATER DRAINAGE
+
+Apex shape for water drainage enhancement
+
+* Clean surface with plasma in cleanroom. **[1hr]**
+* Test frost growth on these samples. **[3days]**
+
+---
+
+## PURDUE CONFERENCE
+
+* Improve defrosting model presentation.
+* Improve frosting model presentation.
+
+---
+
+
+## 注
+
+早上早点起用英国的作息会有助于专注和解决问题呢。
+
+—— Menger 后记 于 07/01/2024 05:39
