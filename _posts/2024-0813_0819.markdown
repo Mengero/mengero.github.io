@@ -1,0 +1,56 @@
+---
+layout:     post
+title:      "08/13/2024 Weekly Plan"
+subtitle:   " \"Weekly Update\""
+date:       2024-07-01 05:31:00
+author:     "Menger"
+header-img: "img/post-weeklyplan-logo.jpg"
+tags:
+    - 科研
+---
+
+> "未经审视的人生不值得一过。"
+
+
+## 碎碎念
+
+赶在黑神话悟空出来前把paper写完吧...
+
+
+<p id = "build"></p>
+---
+
+## AC SYSTEM DEFROSTING MODEL AND CONTROL
+
+这个除霜的模型真的好难做啊...需要采取一个更加合理的除霜模型并且复杂度比较低这样才能有助于更好的capture结果...在放松的时间想想怎么做这个模型吧...
+
+- [ ] Wrap up all the current results and data to a journal paper. **[?]**
+- [ ] Think of a more reasonable theoretical model for defrosting process **[?]**
+
+---
+
+## FROST GROWTH MODEL
+
+目前模型的进展已经足够了，整理数据结果发表掉，同时开始准备database。
+
+- [ ] Writing paper. **[?]**
+- [ ] Learn how to prepare database for machine learning. **[?]**
+- [ ] Modify current experiment setup for non-uniform temperature distribution frosing validation **[2hr]**
+
+---
+
+## DEFROSTING WATER DRAINAGE
+
+Apex shape for water drainage enhancement
+
+- [ ] Waiting Midea's reply for future modification of drainage enhancement. **[?]**
+- [ ] Wrap up experimental results and discussions see if can add any things for publications. **[?]**
+
+---
+
+
+## 注
+
+能不能更专注地把事情都做完呢...
+
+—— Menger 后记 于 08/13/2024 16:07 好累想放假

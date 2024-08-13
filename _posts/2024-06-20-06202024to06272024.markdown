@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "06/20/2024 Weekly Plan"
-subtitle:   " \"blog creation\""
+subtitle:   " \"Weekly Update\""
 date:       2024-06-20 17:03:00
 author:     "Menger"
 header-img: "img/post-weeklyplan-logo.jpg"
